@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Ramzan - Digital Marketing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        .content {
+            padding: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Muhammad Ramzan</h1>
+        <p>Expert in Digital Marketing</p>
+    </header>
+    <div class="content">
+        <h2>Welcome to My Website</h2>
+        <p>This is my portfolio for digital marketing services.</p>
+    </div>
+    <footer>
+        <p>Contact: info@muhammadramzan.com</p>
+    </footer>
+</body>
+</html>
